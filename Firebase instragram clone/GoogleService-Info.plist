@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>566299800918-n98pnh989r20gao6g67f99ctgcg1rcon.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.566299800918-n98pnh989r20gao6g67f99ctgcg1rcon</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAb_fedUiCimB5h7E1cDDWAi38qkllrIhI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>566299800918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>banik.Firebase-instragram-clone</string>
+	<key>PROJECT_ID</key>
+	<string>fir-instragram-clone-1cae7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-instragram-clone-1cae7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:566299800918:ios:1b6e76e1b807d8d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-instragram-clone-1cae7.firebaseio.com</string>
+</dict>
+</plist>
